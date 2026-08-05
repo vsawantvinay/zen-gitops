@@ -2,7 +2,7 @@ replicaCount: 1
 fullnameOverride: inventory-service
 image:
   repository: 032318239586.dkr.ecr.us-east-1.amazonaws.com/inventory-service
-  tag: sha-079d470
+  tag: sha-502c440
   pullPolicy: Always
 service:
   type: ClusterIP
