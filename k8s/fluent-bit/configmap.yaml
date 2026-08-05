@@ -64,7 +64,7 @@ data:
     [OUTPUT]
         Name                 es
         Match                kube.*
-        Host                 my-elasticsearch-project-b70c3c.es.us-central1.gcp.elastic.cloud:443
+        Host                 my-elasticsearch-project-e70f94.es.us-central1.gcp.elastic.cloud
         Port                 443
         TLS                  On
         TLS.Verify           On
